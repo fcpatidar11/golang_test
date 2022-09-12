@@ -11,6 +11,6 @@ This repository contains the codes of the [Backend](https://github.com/fcpatidar
 
 ### Install tools
 - clone the repo to local env.
-- create the database at postress server with your suitable name
+- create the database at Postgres server with your suitable name
 - check the app.env and update the config variable 
-- go run main.go it will installed the all required module and and migrate the database in local system database so make sure before run this command, create the database at postgress server 
+- go run main.go it will installed the all required module and and migrate the database in local system database so make sure before run this command, create the database at Postgres server 
